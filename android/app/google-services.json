@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "109102112732",
+    "project_id": "camera-project-28f33",
+    "storage_bucket": "camera-project-28f33.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109102112732:android:0124542e590efc2ec93919",
+        "android_client_info": {
+          "package_name": "camera.fdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYupdhsrCK7sZzJorB9o2OjeNjYeKSULU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

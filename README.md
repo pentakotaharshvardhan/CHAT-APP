@@ -9,6 +9,10 @@
 ✅ Profile Management – Update display name & profile picture.  
 
 ## 📸 Screenshots
+![Screenshot 2025-02-09 110203](https://github.com/user-attachments/assets/d090726d-7704-448b-9c36-85c8a021b18e)
+![Screenshot 2025-02-09 115739](https://github.com/user-attachments/assets/72ebb973-a910-4213-99f5-b3b150f911e5)
+![Screenshot 2025-02-09 115753](https://github.com/user-attachments/assets/f5bc8cc7-4361-44f0-a691-ff996d25492d)
+![Screenshot 2025-02-09 115903](https://github.com/user-attachments/assets/cec02f1a-f689-4774-a6e6-afde31fc917f)
 ![Screenshot 2025-02-09 115921](https://github.com/user-attachments/assets/837aedc1-d627-413b-a111-23563072f4ce)
 
 ## 🛠️ Tech Stack
